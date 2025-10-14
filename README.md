@@ -22,7 +22,7 @@ This project demonstrates HTML, CSS, and JavaScript skills, including DOM manipu
  
 
 ## Live Demo:
-[https://Ebelielk.github.io/todo-app/](https://Ebelielk.github.io/todo-app/)
+[https://ebelielk.github.io/todo-app/]
 
 ---
 
