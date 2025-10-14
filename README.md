@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/Ebelielk/todo-app?style=flat-square)
 
 ## Description
-A simple modern interactive To-Do application** featuring a glassmorphism design. Users can:  
+A simple modern interactive To-Do application featuring a glassmorphism design. Users can:  
 - Add new tasks  
 - Mark tasks as completed (with a highlight)  
 - Delete tasks using a bin icon  
